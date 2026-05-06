@@ -4,3 +4,6 @@
 [submodule "benchmarks/heterophilous-graphs"]
 	path = benchmarks/heterophilous-graphs
 	url = https://github.com/yandex-research/heterophilous-graphs.git
+[submodule "benchmarks/ogb"]
+	path = benchmarks/ogb
+	url = https://github.com/snap-stanford/ogb.git
