@@ -1,0 +1,6 @@
+[submodule "benchmarks/HGB"]
+	path = benchmarks/HGB
+	url = https://github.com/THUDM/HGB.git
+[submodule "benchmarks/heterophilous-graphs"]
+	path = benchmarks/heterophilous-graphs
+	url = https://github.com/yandex-research/heterophilous-graphs.git
