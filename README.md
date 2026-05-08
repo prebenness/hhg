@@ -33,7 +33,7 @@ hhg/
 
 ### H2GB (Lin et al., KDD 2025)
 
-Lin, Huang, Giraldo, Baek, Hou, Koutis, Ribeiro. [When Heterophily Meets Heterogeneity](https://arxiv.org/abs/2411.14830). KDD 2025.
+Lin, Guo, Zhang, Zhu, Shun. [When Heterophily Meets Heterogeneity: Challenges and a New Large-Scale Graph Benchmark](https://arxiv.org/abs/2407.10916). KDD 2025.
 
 Installed as a pip dependency. Run experiments via `main.py` with YAML configs:
 
@@ -45,7 +45,7 @@ Custom models go in `models/` using the `@register_network` decorator, then refe
 
 ### HGB (Lv et al., KDD 2021)
 
-Lv, Ding, Yang, Hou, Wu, Wang, Liu, Tang. [Are We Really Making Much Progress? Revisiting, Benchmarking and Refining Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2112.14936). KDD 2021.
+Lv, Ding, Liu, Chen, Feng, He, Zhou, Jiang, Dong, Tang. [Are We Really Making Much Progress? Revisiting, Benchmarking and Refining Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2112.14936). KDD 2021.
 
 Per-model scripts under `benchmarks/HGB/NC/benchmark/methods/`. Datasets download automatically (or manually from [Google Drive](https://drive.google.com/drive/folders/10-pf2ADCjq_kpJKFHHLHxr_czNNCJ3aX)).
 
